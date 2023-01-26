@@ -1,10 +1,10 @@
 {
-  "name": "th-cli",
+  "name": "zhurs-cli",
   "version": "1.0.0",
   "description": "项目脚手架",
   "main": "index.js",
   "bin": {
-    "th-cli": "./bin/cli.js"
+    "zhurs-cli": "./bin/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
