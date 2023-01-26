@@ -1,7 +1,7 @@
 {
   "name": "th-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "项目脚手架",
   "main": "index.js",
   "bin": {
     "th-cli": "./bin/cli.js"
