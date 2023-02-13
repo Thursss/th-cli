@@ -1,0 +1,13 @@
+/node_modules
+
+# build
+/dist
+
+# example
+/example/assets
+
+# test
+/src/_test
+
+# log
+*.log
